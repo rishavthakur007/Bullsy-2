@@ -1,0 +1,5 @@
+# Only needed if you host the frontend separately on Netlify.
+# Remember to set the backend address in public/config.js first.
+[build]
+  publish = "public"
+  command = ""
